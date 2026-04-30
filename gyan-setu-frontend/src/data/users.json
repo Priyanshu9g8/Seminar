@@ -1,0 +1,9 @@
+[
+  {
+    "id": 1,
+    "name": "Teacher Demo",
+    "email": "teacher@gyansetu.com",
+    "password": "123456",
+    "role": "teacher"
+  }
+]

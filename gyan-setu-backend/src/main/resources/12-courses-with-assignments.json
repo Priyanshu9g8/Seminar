@@ -1,0 +1,2812 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Alphabet Adventure (A to Z)",
+      "description": "Learn all 26 letters with fun stories and pictures!",
+      "classLevel": "KG",
+      "durationWeeks": 4,
+      "instructorName": "Mrs. Priya Sharma",
+      "price": 0,
+      "thumbnailImageUrl": "https://images.unsplash.com/photo-1503454537688-e47a4e773545?w=500&h=300&fit=crop",
+      "assignments": [
+        {
+          "id": 101,
+          "title": "Color the letter A",
+          "instructions": "Find the letter A and color it with your favorite color!",
+          "submissionType": "IMAGE",
+          "maxScore": 10
+        },
+        {
+          "id": 102,
+          "title": "Draw 3 things starting with B",
+          "instructions": "Draw three things that start with B (Ball, Bird, Banana)",
+          "submissionType": "IMAGE",
+          "maxScore": 10
+        },
+        {
+          "id": 103,
+          "title": "Circle all C's in text",
+          "instructions": "Find and circle letter C wherever you see it",
+          "submissionType": "IMAGE",
+          "maxScore": 10
+        },
+        {
+          "id": 104,
+          "title": "Trace letter D",
+          "instructions": "Carefully trace the letter D 5 times",
+          "submissionType": "IMAGE",
+          "maxScore": 10
+        },
+        {
+          "id": 105,
+          "title": "Write A to E",
+          "instructions": "Write letters from A to E on paper",
+          "submissionType": "TEXT",
+          "maxScore": 10
+        },
+        {
+          "id": 106,
+          "title": "Find E in home",
+          "instructions": "Take a photo of something in your home that starts with E",
+          "submissionType": "IMAGE",
+          "maxScore": 10
+        },
+        {
+          "id": 107,
+          "title": "F sound words",
+          "instructions": "List 5 words that start with F",
+          "submissionType": "TEXT",
+          "maxScore": 10
+        },
+        {
+          "id": 108,
+          "title": "G is for green",
+          "instructions": "Color things green and draw 2 green items",
+          "submissionType": "IMAGE",
+          "maxScore": 10
+        },
+        {
+          "id": 109,
+          "title": "H Handwriting",
+          "instructions": "Practice writing H correctly 10 times",
+          "submissionType": "IMAGE",
+          "maxScore": 10
+        },
+        {
+          "id": 110,
+          "title": "I like ice cream",
+          "instructions": "Draw or write about your favorite ice cream",
+          "submissionType": "IMAGE",
+          "maxScore": 10
+        },
+        {
+          "id": 111,
+          "title": "J for Jelly",
+          "instructions": "Draw jelly and write the word J-E-L-L-Y",
+          "submissionType": "IMAGE",
+          "maxScore": 10
+        },
+        {
+          "id": 112,
+          "title": "K Kite Coloring",
+          "instructions": "Color a kite with two colors",
+          "submissionType": "IMAGE",
+          "maxScore": 10
+        },
+        {
+          "id": 113,
+          "title": "L Lion Drawing",
+          "instructions": "Draw a lion and write the letter L",
+          "submissionType": "IMAGE",
+          "maxScore": 10
+        },
+        {
+          "id": 114,
+          "title": "M Monkey Fun",
+          "instructions": "Draw a monkey and trace the letter M",
+          "submissionType": "IMAGE",
+          "maxScore": 10
+        },
+        {
+          "id": 115,
+          "title": "Vowel Review",
+          "instructions": "Write all vowels (A, E, I, O, U) and draw one picture for each",
+          "submissionType": "IMAGE",
+          "maxScore": 15
+        },
+        {
+          "id": 116,
+          "title": "Letter N and O",
+          "instructions": "Practice N and O - write each 5 times",
+          "submissionType": "IMAGE",
+          "maxScore": 10
+        },
+        {
+          "id": 117,
+          "title": "P Q R Racing",
+          "instructions": "Write P, Q, R and tell which one is your favorite",
+          "submissionType": "TEXT",
+          "maxScore": 10
+        },
+        {
+          "id": 118,
+          "title": "S Snake Zigzag",
+          "instructions": "Draw a zigzag snake and write S on it",
+          "submissionType": "IMAGE",
+          "maxScore": 10
+        },
+        {
+          "id": 119,
+          "title": "T Tree Time",
+          "instructions": "Draw a tree and write T at the top",
+          "submissionType": "IMAGE",
+          "maxScore": 10
+        },
+        {
+          "id": 120,
+          "title": "U Umbrella Colors",
+          "instructions": "Color an umbrella with many colors",
+          "submissionType": "IMAGE",
+          "maxScore": 10
+        },
+        {
+          "id": 121,
+          "title": "Alphabet Adventure (A to Z) - Practice Task 1",
+          "instructions": "Complete this fun activity for Alphabet Adventure (A to Z). Follow the steps carefully and submit your work to your teacher."
+        },
+        {
+          "id": 122,
+          "title": "Alphabet Adventure (A to Z) - Practice Task 2",
+          "instructions": "Complete this fun activity for Alphabet Adventure (A to Z). Follow the steps carefully and submit your work to your teacher."
+        },
+        {
+          "id": 123,
+          "title": "Alphabet Adventure (A to Z) - Practice Task 3",
+          "instructions": "Complete this fun activity for Alphabet Adventure (A to Z). Follow the steps carefully and submit your work to your teacher."
+        },
+        {
+          "id": 124,
+          "title": "Alphabet Adventure (A to Z) - Practice Task 4",
+          "instructions": "Complete this fun activity for Alphabet Adventure (A to Z). Follow the steps carefully and submit your work to your teacher."
+        },
+        {
+          "id": 125,
+          "title": "Alphabet Adventure (A to Z) - Practice Task 5",
+          "instructions": "Complete this fun activity for Alphabet Adventure (A to Z). Follow the steps carefully and submit your work to your teacher."
+        },
+        {
+          "id": 126,
+          "title": "Alphabet Adventure (A to Z) - Practice Task 6",
+          "instructions": "Complete this fun activity for Alphabet Adventure (A to Z). Follow the steps carefully and submit your work to your teacher."
+        },
+        {
+          "id": 127,
+          "title": "Alphabet Adventure (A to Z) - Practice Task 7",
+          "instructions": "Complete this fun activity for Alphabet Adventure (A to Z). Follow the steps carefully and submit your work to your teacher."
+        },
+        {
+          "id": 128,
+          "title": "Alphabet Adventure (A to Z) - Practice Task 8",
+          "instructions": "Complete this fun activity for Alphabet Adventure (A to Z). Follow the steps carefully and submit your work to your teacher."
+        },
+        {
+          "id": 129,
+          "title": "Alphabet Adventure (A to Z) - Practice Task 9",
+          "instructions": "Complete this fun activity for Alphabet Adventure (A to Z). Follow the steps carefully and submit your work to your teacher."
+        },
+        {
+          "id": 130,
+          "title": "Alphabet Adventure (A to Z) - Practice Task 10",
+          "instructions": "Complete this fun activity for Alphabet Adventure (A to Z). Follow the steps carefully and submit your work to your teacher."
+        }
+      ],
+      "chapters": [
+        {
+          "chapterTitle": {
+            "en": "Additional Chapter 1"
+          },
+          "questions": []
+        },
+        {
+          "chapterTitle": {
+            "en": "Additional Chapter  2"
+          },
+          "questions": []
+        },
+        {
+          "chapterTitle": {
+            "en": "Additional Chapter   3"
+          },
+          "questions": []
+        },
+        {
+          "chapterTitle": {
+            "en": "Additional Chapter    4"
+          },
+          "questions": []
+        },
+        {
+          "chapterTitle": {
+            "en": "Additional Chapter     5"
+          },
+          "questions": []
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Number Magic (1-100)",
+      "description": "Discover the fun world of counting and numbers!",
+      "classLevel": "KG",
+      "durationWeeks": 4,
+      "instructorName": "Mr. Rajesh Kumar",
+      "price": 0,
+      "thumbnailImageUrl": "https://images.unsplash.com/photo-1516979187457-637abb4f9353?w=500&h=300&fit=crop",
+      "assignments": [
+        {
+          "id": 201,
+          "title": "Count to 10",
+          "instructions": "Draw or paste 10 objects and count them aloud",
+          "submissionType": "IMAGE",
+          "maxScore": 10
+        },
+        {
+          "id": 202,
+          "title": "Number matching",
+          "instructions": "Match numbers 1-10 with pictures",
+          "submissionType": "TEXT",
+          "maxScore": 10
+        },
+        {
+          "id": 203,
+          "title": "One apple per circle",
+          "instructions": "Draw 5 circles and put one apple in each",
+          "submissionType": "IMAGE",
+          "maxScore": 10
+        },
+        {
+          "id": 204,
+          "title": "Count your fingers",
+          "instructions": "Take a photo of your hands showing numbers",
+          "submissionType": "IMAGE",
+          "maxScore": 10
+        },
+        {
+          "id": 205,
+          "title": "Write numbers 1-5",
+          "instructions": "Practice writing 1, 2, 3, 4, 5 neatly",
+          "submissionType": "IMAGE",
+          "maxScore": 10
+        },
+        {
+          "id": 206,
+          "title": "Find numbers at home",
+          "instructions": "Take photos of 5 numbers you see at home",
+          "submissionType": "IMAGE",
+          "maxScore": 15
+        },
+        {
+          "id": 207,
+          "title": "Number sequence",
+          "instructions": "Write the numbers in order: 1, 2, _, 4, 5",
+          "submissionType": "TEXT",
+          "maxScore": 10
+        },
+        {
+          "id": 208,
+          "title": "More or less?",
+          "instructions": "Compare two groups and tell which has more",
+          "submissionType": "TEXT",
+          "maxScore": 10
+        },
+        {
+          "id": 209,
+          "title": "Counting song",
+          "instructions": "Write or sing a song about numbers",
+          "submissionType": "TEXT",
+          "maxScore": 10
+        },
+        {
+          "id": 210,
+          "title": "Number 6-10 writing",
+          "instructions": "Practice writing numbers 6, 7, 8, 9, 10",
+          "submissionType": "IMAGE",
+          "maxScore": 10
+        },
+        {
+          "id": 211,
+          "title": "Dot to dot",
+          "instructions": "Connect dots from 1-10 to make a picture",
+          "submissionType": "IMAGE",
+          "maxScore": 10
+        },
+        {
+          "id": 212,
+          "title": "Count objects daily",
+          "instructions": "Count things around you - toys, books, etc.",
+          "submissionType": "TEXT",
+          "maxScore": 10
+        },
+        {
+          "id": 213,
+          "title": "Number coloring",
+          "instructions": "Color numbers 1-5 with different colors",
+          "submissionType": "IMAGE",
+          "maxScore": 10
+        },
+        {
+          "id": 214,
+          "title": "Biggest and smallest",
+          "instructions": "Find the biggest and smallest number from a set",
+          "submissionType": "TEXT",
+          "maxScore": 10
+        },
+        {
+          "id": 215,
+          "title": "Simple addition",
+          "instructions": "1+1=?, 2+1=?, 1+2=? (with pictures)",
+          "submissionType": "IMAGE",
+          "maxScore": 15
+        },
+        {
+          "id": 216,
+          "title": "Number patterns",
+          "instructions": "Continue the pattern: 2, 4, 6, _, _",
+          "submissionType": "TEXT",
+          "maxScore": 10
+        },
+        {
+          "id": 217,
+          "title": "Counting coins",
+          "instructions": "Collect coins and count them",
+          "submissionType": "IMAGE",
+          "maxScore": 10
+        },
+        {
+          "id": 218,
+          "title": "Age and numbers",
+          "instructions": "Write your age and draw that many candles",
+          "submissionType": "IMAGE",
+          "maxScore": 10
+        },
+        {
+          "id": 219,
+          "title": "Number collage",
+          "instructions": "Make a collage using numbers from magazines",
+          "submissionType": "IMAGE",
+          "maxScore": 10
+        },
+        {
+          "id": 220,
+          "title": "11-20 practice",
+          "instructions": "Write and trace numbers 11 to 20",
+          "submissionType": "IMAGE",
+          "maxScore": 15
+        },
+        {
+          "id": 221,
+          "title": "Number Magic (1-100) - Practice Task 1",
+          "instructions": "Complete this fun activity for Number Magic (1-100). Follow the steps carefully and submit your work to your teacher."
+        },
+        {
+          "id": 222,
+          "title": "Number Magic (1-100) - Practice Task 2",
+          "instructions": "Complete this fun activity for Number Magic (1-100). Follow the steps carefully and submit your work to your teacher."
+        },
+        {
+          "id": 223,
+          "title": "Number Magic (1-100) - Practice Task 3",
+          "instructions": "Complete this fun activity for Number Magic (1-100). Follow the steps carefully and submit your work to your teacher."
+        },
+        {
+          "id": 224,
+          "title": "Number Magic (1-100) - Practice Task 4",
+          "instructions": "Complete this fun activity for Number Magic (1-100). Follow the steps carefully and submit your work to your teacher."
+        },
+        {
+          "id": 225,
+          "title": "Number Magic (1-100) - Practice Task 5",
+          "instructions": "Complete this fun activity for Number Magic (1-100). Follow the steps carefully and submit your work to your teacher."
+        },
+        {
+          "id": 226,
+          "title": "Number Magic (1-100) - Practice Task 6",
+          "instructions": "Complete this fun activity for Number Magic (1-100). Follow the steps carefully and submit your work to your teacher."
+        },
+        {
+          "id": 227,
+          "title": "Number Magic (1-100) - Practice Task 7",
+          "instructions": "Complete this fun activity for Number Magic (1-100). Follow the steps carefully and submit your work to your teacher."
+        },
+        {
+          "id": 228,
+          "title": "Number Magic (1-100) - Practice Task 8",
+          "instructions": "Complete this fun activity for Number Magic (1-100). Follow the steps carefully and submit your work to your teacher."
+        },
+        {
+          "id": 229,
+          "title": "Number Magic (1-100) - Practice Task 9",
+          "instructions": "Complete this fun activity for Number Magic (1-100). Follow the steps carefully and submit your work to your teacher."
+        },
+        {
+          "id": 230,
+          "title": "Number Magic (1-100) - Practice Task 10",
+          "instructions": "Complete this fun activity for Number Magic (1-100). Follow the steps carefully and submit your work to your teacher."
+        }
+      ],
+      "chapters": [
+        {
+          "chapterTitle": {
+            "en": "Additional Chapter 1"
+          },
+          "questions": []
+        },
+        {
+          "chapterTitle": {
+            "en": "Additional Chapter  2"
+          },
+          "questions": []
+        },
+        {
+          "chapterTitle": {
+            "en": "Additional Chapter   3"
+          },
+          "questions": []
+        },
+        {
+          "chapterTitle": {
+            "en": "Additional Chapter    4"
+          },
+          "questions": []
+        },
+        {
+          "chapterTitle": {
+            "en": "Additional Chapter     5"
+          },
+          "questions": []
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Colorful Drawing Basics",
+      "description": "Learn to draw and paint beautiful pictures!",
+      "classLevel": "KG",
+      "durationWeeks": 3,
+      "instructorName": "Ms. Anjali Verma",
+      "price": 0,
+      "thumbnailImageUrl": "https://images.unsplash.com/photo-1513364776144-60967b0f800f?w=500&h=300&fit=crop",
+      "assignments": [
+        {
+          "id": 301,
+          "title": "Draw a happy face",
+          "instructions": "Draw your happiest face with lots of colors",
+          "submissionType": "IMAGE",
+          "maxScore": 10
+        },
+        {
+          "id": 302,
+          "title": "Color a rainbow",
+          "instructions": "Draw 7 lines and color them like a rainbow",
+          "submissionType": "IMAGE",
+          "maxScore": 10
+        },
+        {
+          "id": 303,
+          "title": "Sunny day scene",
+          "instructions": "Draw sun, clouds, and grass with colors",
+          "submissionType": "IMAGE",
+          "maxScore": 10
+        },
+        {
+          "id": 304,
+          "title": "Flower garden",
+          "instructions": "Draw 5 flowers with different colors",
+          "submissionType": "IMAGE",
+          "maxScore": 10
+        },
+        {
+          "id": 305,
+          "title": "Animal friend",
+          "instructions": "Draw your favorite animal with pretty colors",
+          "submissionType": "IMAGE",
+          "maxScore": 10
+        },
+        {
+          "id": 306,
+          "title": "My family",
+          "instructions": "Draw stickman figures of your family",
+          "submissionType": "IMAGE",
+          "maxScore": 10
+        },
+        {
+          "id": 307,
+          "title": "Favorite food",
+          "instructions": "Draw your favorite food and color it",
+          "submissionType": "IMAGE",
+          "maxScore": 10
+        },
+        {
+          "id": 308,
+          "title": "Stars and moon",
+          "instructions": "Draw night sky with stars and moon",
+          "submissionType": "IMAGE",
+          "maxScore": 10
+        },
+        {
+          "id": 309,
+          "title": "Tree in seasons",
+          "instructions": "Draw a tree and show all 4 seasons around it",
+          "submissionType": "IMAGE",
+          "maxScore": 15
+        },
+        {
+          "id": 310,
+          "title": "Butterfly wings",
+          "instructions": "Draw a butterfly and color it symmetrically",
+          "submissionType": "IMAGE",
+          "maxScore": 10
+        },
+        {
+          "id": 311,
+          "title": "Color mixing",
+          "instructions": "Mix two colors and show the new color you created",
+          "submissionType": "IMAGE",
+          "maxScore": 10
+        },
+        {
+          "id": 312,
+          "title": "Dot painting",
+          "instructions": "Use dots to create a picture (pointillism)",
+          "submissionType": "IMAGE",
+          "maxScore": 10
+        },
+        {
+          "id": 313,
+          "title": "Underwater scene",
+          "instructions": "Draw fish, plants, and bubbles underwater",
+          "submissionType": "IMAGE",
+          "maxScore": 10
+        },
+        {
+          "id": 314,
+          "title": "My dream home",
+          "instructions": "Draw and color your dream house",
+          "submissionType": "IMAGE",
+          "maxScore": 10
+        },
+        {
+          "id": 315,
+          "title": "Mosaic design",
+          "instructions": "Create a mosaic pattern with colors",
+          "submissionType": "IMAGE",
+          "maxScore": 10
+        },
+        {
+          "id": 316,
+          "title": "Pattern practice",
+          "instructions": "Draw repeating patterns with shapes",
+          "submissionType": "IMAGE",
+          "maxScore": 10
+        },
+        {
+          "id": 317,
+          "title": "Color wheel",
+          "instructions": "Draw a circle divided into 6 colored sections",
+          "submissionType": "IMAGE",
+          "maxScore": 10
+        },
+        {
+          "id": 318,
+          "title": "Fruit basket",
+          "instructions": "Draw a basket with 6 different colorful fruits",
+          "submissionType": "IMAGE",
+          "maxScore": 15
+        },
+        {
+          "id": 319,
+          "title": "Shape art",
+          "instructions": "Use circles, squares, and triangles to make a picture",
+          "submissionType": "IMAGE",
+          "maxScore": 10
+        },
+        {
+          "id": 320,
+          "title": "Clay creation",
+          "instructions": "Make clay shapes and take a photo",
+          "submissionType": "IMAGE",
+          "maxScore": 10
+        },
+        {
+          "id": 321,
+          "title": "Colorful Drawing Basics - Practice Task 1",
+          "instructions": "Complete this fun activity for Colorful Drawing Basics. Follow the steps carefully and submit your work to your teacher."
+        },
+        {
+          "id": 322,
+          "title": "Colorful Drawing Basics - Practice Task 2",
+          "instructions": "Complete this fun activity for Colorful Drawing Basics. Follow the steps carefully and submit your work to your teacher."
+        },
+        {
+          "id": 323,
+          "title": "Colorful Drawing Basics - Practice Task 3",
+          "instructions": "Complete this fun activity for Colorful Drawing Basics. Follow the steps carefully and submit your work to your teacher."
+        },
+        {
+          "id": 324,
+          "title": "Colorful Drawing Basics - Practice Task 4",
+          "instructions": "Complete this fun activity for Colorful Drawing Basics. Follow the steps carefully and submit your work to your teacher."
+        },
+        {
+          "id": 325,
+          "title": "Colorful Drawing Basics - Practice Task 5",
+          "instructions": "Complete this fun activity for Colorful Drawing Basics. Follow the steps carefully and submit your work to your teacher."
+        },
+        {
+          "id": 326,
+          "title": "Colorful Drawing Basics - Practice Task 6",
+          "instructions": "Complete this fun activity for Colorful Drawing Basics. Follow the steps carefully and submit your work to your teacher."
+        },
+        {
+          "id": 327,
+          "title": "Colorful Drawing Basics - Practice Task 7",
+          "instructions": "Complete this fun activity for Colorful Drawing Basics. Follow the steps carefully and submit your work to your teacher."
+        },
+        {
+          "id": 328,
+          "title": "Colorful Drawing Basics - Practice Task 8",
+          "instructions": "Complete this fun activity for Colorful Drawing Basics. Follow the steps carefully and submit your work to your teacher."
+        },
+        {
+          "id": 329,
+          "title": "Colorful Drawing Basics - Practice Task 9",
+          "instructions": "Complete this fun activity for Colorful Drawing Basics. Follow the steps carefully and submit your work to your teacher."
+        },
+        {
+          "id": 330,
+          "title": "Colorful Drawing Basics - Practice Task 10",
+          "instructions": "Complete this fun activity for Colorful Drawing Basics. Follow the steps carefully and submit your work to your teacher."
+        }
+      ],
+      "chapters": [
+        {
+          "chapterTitle": {
+            "en": "Additional Chapter 1"
+          },
+          "questions": []
+        },
+        {
+          "chapterTitle": {
+            "en": "Additional Chapter  2"
+          },
+          "questions": []
+        },
+        {
+          "chapterTitle": {
+            "en": "Additional Chapter   3"
+          },
+          "questions": []
+        },
+        {
+          "chapterTitle": {
+            "en": "Additional Chapter    4"
+          },
+          "questions": []
+        },
+        {
+          "chapterTitle": {
+            "en": "Additional Chapter     5"
+          },
+          "questions": []
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Wonderful Stories & Tales",
+      "description": "Enjoy fairy tales and fun stories with lessons!",
+      "classLevel": "CLASS_1",
+      "durationWeeks": 4,
+      "instructorName": "Mrs. Deepa Singh",
+      "price": 0,
+      "thumbnailImageUrl": "https://images.unsplash.com/photo-1507842217343-583f7270bfba?w=500&h=300&fit=crop",
+      "assignments": [
+        {
+          "id": 401,
+          "title": "Favorite story character",
+          "instructions": "Draw your favorite storybook character",
+          "submissionType": "IMAGE",
+          "maxScore": 10
+        },
+        {
+          "id": 402,
+          "title": "Story beginning",
+          "instructions": "Write or draw: Once upon a time...",
+          "submissionType": "IMAGE",
+          "maxScore": 10
+        },
+        {
+          "id": 403,
+          "title": "Cinderella's shoes",
+          "instructions": "Draw Cinderella's magical shoes",
+          "submissionType": "IMAGE",
+          "maxScore": 10
+        },
+        {
+          "id": 404,
+          "title": "Three little pigs",
+          "instructions": "Draw the three houses (straw, stick, brick)",
+          "submissionType": "IMAGE",
+          "maxScore": 10
+        },
+        {
+          "id": 405,
+          "title": "Snow White adventure",
+          "instructions": "List the 7 dwarfs or draw them",
+          "submissionType": "TEXT",
+          "maxScore": 10
+        },
+        {
+          "id": 406,
+          "title": "Rapunzel's tower",
+          "instructions": "Draw a tower with long hair coming down",
+          "submissionType": "IMAGE",
+          "maxScore": 10
+        },
+        {
+          "id": 407,
+          "title": "Story ending",
+          "instructions": "Write your own ending to a classic story",
+          "submissionType": "TEXT",
+          "maxScore": 15
+        },
+        {
+          "id": 408,
+          "title": "Good vs Evil",
+          "instructions": "Draw a good character and bad character",
+          "submissionType": "IMAGE",
+          "maxScore": 10
+        },
+        {
+          "id": 409,
+          "title": "Magic wand",
+          "instructions": "Draw a magic wand and tell what it can do",
+          "submissionType": "IMAGE",
+          "maxScore": 10
+        },
+        {
+          "id": 410,
+          "title": "Adventure map",
+          "instructions": "Draw a map for a story adventure",
+          "submissionType": "IMAGE",
+          "maxScore": 10
+        },
+        {
+          "id": 411,
+          "title": "Talking animals",
+          "instructions": "Write a short dialogue between two animals",
+          "submissionType": "TEXT",
+          "maxScore": 10
+        },
+        {
+          "id": 412,
+          "title": "Lost and found",
+          "instructions": "Tell a story about something lost and found",
+          "submissionType": "TEXT",
+          "maxScore": 10
+        },
+        {
+          "id": 413,
+          "title": "Dragon drawing",
+          "instructions": "Draw a friendly or scary dragon",
+          "submissionType": "IMAGE",
+          "maxScore": 10
+        },
+        {
+          "id": 414,
+          "title": "Castle design",
+          "instructions": "Design your own magical castle",
+          "submissionType": "IMAGE",
+          "maxScore": 15
+        },
+        {
+          "id": 415,
+          "title": "Treasure hunt",
+          "instructions": "Draw clues leading to hidden treasure",
+          "submissionType": "IMAGE",
+          "maxScore": 10
+        },
+        {
+          "id": 416,
+          "title": "Story sequence",
+          "instructions": "Draw 3 pictures to show story beginning, middle, end",
+          "submissionType": "IMAGE",
+          "maxScore": 15
+        },
+        {
+          "id": 417,
+          "title": "Character feelings",
+          "instructions": "Draw faces showing happy, sad, scared, surprised",
+          "submissionType": "IMAGE",
+          "maxScore": 10
+        },
+        {
+          "id": 418,
+          "title": "Spellbook",
+          "instructions": "Create magical spells and write them down",
+          "submissionType": "TEXT",
+          "maxScore": 10
+        },
+        {
+          "id": 419,
+          "title": "Chapter title",
+          "instructions": "Write chapter titles for a story",
+          "submissionType": "TEXT",
+          "maxScore": 10
+        },
+        {
+          "id": 420,
+          "title": "Time travel",
+          "instructions": "Write where you'd go if you could time travel",
+          "submissionType": "TEXT",
+          "maxScore": 15
+        },
+        {
+          "id": 421,
+          "title": "Wonderful Stories & Tales - Practice Task 1",
+          "instructions": "Complete this fun activity for Wonderful Stories & Tales. Follow the steps carefully and submit your work to your teacher."
+        },
+        {
+          "id": 422,
+          "title": "Wonderful Stories & Tales - Practice Task 2",
+          "instructions": "Complete this fun activity for Wonderful Stories & Tales. Follow the steps carefully and submit your work to your teacher."
+        },
+        {
+          "id": 423,
+          "title": "Wonderful Stories & Tales - Practice Task 3",
+          "instructions": "Complete this fun activity for Wonderful Stories & Tales. Follow the steps carefully and submit your work to your teacher."
+        },
+        {
+          "id": 424,
+          "title": "Wonderful Stories & Tales - Practice Task 4",
+          "instructions": "Complete this fun activity for Wonderful Stories & Tales. Follow the steps carefully and submit your work to your teacher."
+        },
+        {
+          "id": 425,
+          "title": "Wonderful Stories & Tales - Practice Task 5",
+          "instructions": "Complete this fun activity for Wonderful Stories & Tales. Follow the steps carefully and submit your work to your teacher."
+        },
+        {
+          "id": 426,
+          "title": "Wonderful Stories & Tales - Practice Task 6",
+          "instructions": "Complete this fun activity for Wonderful Stories & Tales. Follow the steps carefully and submit your work to your teacher."
+        },
+        {
+          "id": 427,
+          "title": "Wonderful Stories & Tales - Practice Task 7",
+          "instructions": "Complete this fun activity for Wonderful Stories & Tales. Follow the steps carefully and submit your work to your teacher."
+        },
+        {
+          "id": 428,
+          "title": "Wonderful Stories & Tales - Practice Task 8",
+          "instructions": "Complete this fun activity for Wonderful Stories & Tales. Follow the steps carefully and submit your work to your teacher."
+        },
+        {
+          "id": 429,
+          "title": "Wonderful Stories & Tales - Practice Task 9",
+          "instructions": "Complete this fun activity for Wonderful Stories & Tales. Follow the steps carefully and submit your work to your teacher."
+        },
+        {
+          "id": 430,
+          "title": "Wonderful Stories & Tales - Practice Task 10",
+          "instructions": "Complete this fun activity for Wonderful Stories & Tales. Follow the steps carefully and submit your work to your teacher."
+        }
+      ],
+      "chapters": [
+        {
+          "chapterTitle": {
+            "en": "Additional Chapter 1"
+          },
+          "questions": []
+        },
+        {
+          "chapterTitle": {
+            "en": "Additional Chapter  2"
+          },
+          "questions": []
+        },
+        {
+          "chapterTitle": {
+            "en": "Additional Chapter   3"
+          },
+          "questions": []
+        },
+        {
+          "chapterTitle": {
+            "en": "Additional Chapter    4"
+          },
+          "questions": []
+        },
+        {
+          "chapterTitle": {
+            "en": "Additional Chapter     5"
+          },
+          "questions": []
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Rhymes & Poems Delight",
+      "description": "Learn fun rhymes and create your own poems!",
+      "classLevel": "CLASS_1",
+      "durationWeeks": 3,
+      "instructorName": "Mr. Vikram Patel",
+      "price": 0,
+      "thumbnailImageUrl": "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=500&h=300&fit=crop",
+      "assignments": [
+        {
+          "id": 501,
+          "title": "Cat and hat rhyme",
+          "instructions": "Find 5 words that rhyme with CAT",
+          "submissionType": "TEXT",
+          "maxScore": 10
+        },
+        {
+          "id": 502,
+          "title": "Rhyme drawing",
+          "instructions": "Draw two things that rhyme (sun-gun, cat-hat)",
+          "submissionType": "IMAGE",
+          "maxScore": 10
+        },
+        {
+          "id": 503,
+          "title": "Simple couplet",
+          "instructions": "Write two sentences that rhyme",
+          "submissionType": "TEXT",
+          "maxScore": 10
+        },
+        {
+          "id": 504,
+          "title": "Action rhyme",
+          "instructions": "Act out a rhyming poem and describe it",
+          "submissionType": "TEXT",
+          "maxScore": 10
+        },
+        {
+          "id": 505,
+          "title": "Nursery rhyme",
+          "instructions": "Recite and draw a nursery rhyme",
+          "submissionType": "IMAGE",
+          "maxScore": 10
+        },
+        {
+          "id": 506,
+          "title": "Rhyme chain",
+          "instructions": "Create a chain of 5 rhyming words",
+          "submissionType": "TEXT",
+          "maxScore": 10
+        },
+        {
+          "id": 507,
+          "title": "My own poem",
+          "instructions": "Write your first 4-line poem",
+          "submissionType": "TEXT",
+          "maxScore": 15
+        },
+        {
+          "id": 508,
+          "title": "Poem illustration",
+          "instructions": "Draw pictures for your favorite poem",
+          "submissionType": "IMAGE",
+          "maxScore": 10
+        },
+        {
+          "id": 509,
+          "title": "Alliteration fun",
+          "instructions": "Make phrases with same starting sound (b: big, bouncy ball)",
+          "submissionType": "TEXT",
+          "maxScore": 10
+        },
+        {
+          "id": 510,
+          "title": "Emotion poem",
+          "instructions": "Write a poem about your favorite feeling",
+          "submissionType": "TEXT",
+          "maxScore": 10
+        },
+        {
+          "id": 511,
+          "title": "Nature rhyme",
+          "instructions": "Write rhymes about weather or seasons",
+          "submissionType": "TEXT",
+          "maxScore": 10
+        },
+        {
+          "id": 512,
+          "title": "Funny poem",
+          "instructions": "Write a silly, funny poem",
+          "submissionType": "TEXT",
+          "maxScore": 10
+        },
+        {
+          "id": 513,
+          "title": "Sound effects",
+          "instructions": "Write words that sound like what they mean (buzz, hiss)",
+          "submissionType": "TEXT",
+          "maxScore": 10
+        },
+        {
+          "id": 514,
+          "title": "Riddle poem",
+          "instructions": "Write a poem that is a riddle",
+          "submissionType": "TEXT",
+          "maxScore": 15
+        },
+        {
+          "id": 515,
+          "title": "Color poem",
+          "instructions": "Write a poem using color words",
+          "submissionType": "TEXT",
+          "maxScore": 10
+        },
+        {
+          "id": 516,
+          "title": "Animal rhyme",
+          "instructions": "Write rhyming verses about animals",
+          "submissionType": "TEXT",
+          "maxScore": 10
+        },
+        {
+          "id": 517,
+          "title": "Acrostic poem",
+          "instructions": "Write a poem where first letters spell a word",
+          "submissionType": "TEXT",
+          "maxScore": 15
+        },
+        {
+          "id": 518,
+          "title": "Haiku adventure",
+          "instructions": "Write a haiku (5-7-5 syllables)",
+          "submissionType": "TEXT",
+          "maxScore": 10
+        },
+        {
+          "id": 519,
+          "title": "Poem performance",
+          "instructions": "Recite a poem with expression",
+          "submissionType": "TEXT",
+          "maxScore": 10
+        },
+        {
+          "id": 520,
+          "title": "Lullaby creation",
+          "instructions": "Create a soothing poem or lullaby",
+          "submissionType": "TEXT",
+          "maxScore": 15
+        },
+        {
+          "id": 521,
+          "title": "Rhymes & Poems Delight - Practice Task 1",
+          "instructions": "Complete this fun activity for Rhymes & Poems Delight. Follow the steps carefully and submit your work to your teacher."
+        },
+        {
+          "id": 522,
+          "title": "Rhymes & Poems Delight - Practice Task 2",
+          "instructions": "Complete this fun activity for Rhymes & Poems Delight. Follow the steps carefully and submit your work to your teacher."
+        },
+        {
+          "id": 523,
+          "title": "Rhymes & Poems Delight - Practice Task 3",
+          "instructions": "Complete this fun activity for Rhymes & Poems Delight. Follow the steps carefully and submit your work to your teacher."
+        },
+        {
+          "id": 524,
+          "title": "Rhymes & Poems Delight - Practice Task 4",
+          "instructions": "Complete this fun activity for Rhymes & Poems Delight. Follow the steps carefully and submit your work to your teacher."
+        },
+        {
+          "id": 525,
+          "title": "Rhymes & Poems Delight - Practice Task 5",
+          "instructions": "Complete this fun activity for Rhymes & Poems Delight. Follow the steps carefully and submit your work to your teacher."
+        },
+        {
+          "id": 526,
+          "title": "Rhymes & Poems Delight - Practice Task 6",
+          "instructions": "Complete this fun activity for Rhymes & Poems Delight. Follow the steps carefully and submit your work to your teacher."
+        },
+        {
+          "id": 527,
+          "title": "Rhymes & Poems Delight - Practice Task 7",
+          "instructions": "Complete this fun activity for Rhymes & Poems Delight. Follow the steps carefully and submit your work to your teacher."
+        },
+        {
+          "id": 528,
+          "title": "Rhymes & Poems Delight - Practice Task 8",
+          "instructions": "Complete this fun activity for Rhymes & Poems Delight. Follow the steps carefully and submit your work to your teacher."
+        },
+        {
+          "id": 529,
+          "title": "Rhymes & Poems Delight - Practice Task 9",
+          "instructions": "Complete this fun activity for Rhymes & Poems Delight. Follow the steps carefully and submit your work to your teacher."
+        },
+        {
+          "id": 530,
+          "title": "Rhymes & Poems Delight - Practice Task 10",
+          "instructions": "Complete this fun activity for Rhymes & Poems Delight. Follow the steps carefully and submit your work to your teacher."
+        }
+      ],
+      "chapters": [
+        {
+          "chapterTitle": {
+            "en": "Additional Chapter 1"
+          },
+          "questions": []
+        },
+        {
+          "chapterTitle": {
+            "en": "Additional Chapter  2"
+          },
+          "questions": []
+        },
+        {
+          "chapterTitle": {
+            "en": "Additional Chapter   3"
+          },
+          "questions": []
+        },
+        {
+          "chapterTitle": {
+            "en": "Additional Chapter    4"
+          },
+          "questions": []
+        },
+        {
+          "chapterTitle": {
+            "en": "Additional Chapter     5"
+          },
+          "questions": []
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Moral Values & Good Habits",
+      "description": "Learn to be kind, honest, and helpful!",
+      "classLevel": "CLASS_1",
+      "durationWeeks": 4,
+      "instructorName": "Mrs. Kavya Desai",
+      "price": 0,
+      "thumbnailImageUrl": "https://images.unsplash.com/photo-1427504494785-cdad25a27b7e?w=500&h=300&fit=crop",
+      "assignments": [
+        {
+          "id": 601,
+          "title": "Kindness drawing",
+          "instructions": "Draw yourself being kind to someone",
+          "submissionType": "IMAGE",
+          "maxScore": 10
+        },
+        {
+          "id": 602,
+          "title": "Honesty story",
+          "instructions": "Tell a story about being honest",
+          "submissionType": "TEXT",
+          "maxScore": 10
+        },
+        {
+          "id": 603,
+          "title": "Helping others",
+          "instructions": "Draw you helping a friend or family",
+          "submissionType": "IMAGE",
+          "maxScore": 10
+        },
+        {
+          "id": 604,
+          "title": "Sharing moment",
+          "instructions": "Write about when you shared with others",
+          "submissionType": "TEXT",
+          "maxScore": 10
+        },
+        {
+          "id": 605,
+          "title": "Good friend traits",
+          "instructions": "List 5 traits of a good friend",
+          "submissionType": "TEXT",
+          "maxScore": 10
+        },
+        {
+          "id": 606,
+          "title": "Manners practice",
+          "instructions": "Write: Please, Thank you, Sorry in 10 sentences",
+          "submissionType": "TEXT",
+          "maxScore": 10
+        },
+        {
+          "id": 607,
+          "title": "Respect drawing",
+          "instructions": "Draw people respecting each other",
+          "submissionType": "IMAGE",
+          "maxScore": 10
+        },
+        {
+          "id": 608,
+          "title": "Bravery story",
+          "instructions": "Tell a story about being brave",
+          "submissionType": "TEXT",
+          "maxScore": 15
+        },
+        {
+          "id": 609,
+          "title": "Listening game",
+          "instructions": "Listen to someone and summarize what they said",
+          "submissionType": "TEXT",
+          "maxScore": 10
+        },
+        {
+          "id": 610,
+          "title": "Saying sorry",
+          "instructions": "Write an apology letter",
+          "submissionType": "TEXT",
+          "maxScore": 10
+        },
+        {
+          "id": 611,
+          "title": "Teamwork",
+          "instructions": "Draw a team working together on a task",
+          "submissionType": "IMAGE",
+          "maxScore": 10
+        },
+        {
+          "id": 612,
+          "title": "Courage example",
+          "instructions": "Draw someone being courageous",
+          "submissionType": "IMAGE",
+          "maxScore": 10
+        },
+        {
+          "id": 613,
+          "title": "Patience practice",
+          "instructions": "Do a task slowly and carefully without rushing",
+          "submissionType": "TEXT",
+          "maxScore": 10
+        },
+        {
+          "id": 614,
+          "title": "Gratitude list",
+          "instructions": "Write 10 things you're thankful for",
+          "submissionType": "TEXT",
+          "maxScore": 15
+        },
+        {
+          "id": 615,
+          "title": "Empathy exercise",
+          "instructions": "Tell how someone else might feel in a situation",
+          "submissionType": "TEXT",
+          "maxScore": 10
+        },
+        {
+          "id": 616,
+          "title": "Following rules",
+          "instructions": "Draw classroom or home rules you follow",
+          "submissionType": "IMAGE",
+          "maxScore": 10
+        },
+        {
+          "id": 617,
+          "title": "Standing up",
+          "instructions": "Tell a story about saying no to something wrong",
+          "submissionType": "TEXT",
+          "maxScore": 10
+        },
+        {
+          "id": 618,
+          "title": "Love and care",
+          "instructions": "Draw someone you care about and why",
+          "submissionType": "IMAGE",
+          "maxScore": 15
+        },
+        {
+          "id": 619,
+          "title": "Making peace",
+          "instructions": "Describe how to fix an argument with a friend",
+          "submissionType": "TEXT",
+          "maxScore": 10
+        },
+        {
+          "id": 620,
+          "title": "Good citizen",
+          "instructions": "Draw ways to be a good community member",
+          "submissionType": "IMAGE",
+          "maxScore": 15
+        },
+        {
+          "id": 621,
+          "title": "Moral Values & Good Habits - Practice Task 1",
+          "instructions": "Complete this fun activity for Moral Values & Good Habits. Follow the steps carefully and submit your work to your teacher."
+        },
+        {
+          "id": 622,
+          "title": "Moral Values & Good Habits - Practice Task 2",
+          "instructions": "Complete this fun activity for Moral Values & Good Habits. Follow the steps carefully and submit your work to your teacher."
+        },
+        {
+          "id": 623,
+          "title": "Moral Values & Good Habits - Practice Task 3",
+          "instructions": "Complete this fun activity for Moral Values & Good Habits. Follow the steps carefully and submit your work to your teacher."
+        },
+        {
+          "id": 624,
+          "title": "Moral Values & Good Habits - Practice Task 4",
+          "instructions": "Complete this fun activity for Moral Values & Good Habits. Follow the steps carefully and submit your work to your teacher."
+        },
+        {
+          "id": 625,
+          "title": "Moral Values & Good Habits - Practice Task 5",
+          "instructions": "Complete this fun activity for Moral Values & Good Habits. Follow the steps carefully and submit your work to your teacher."
+        },
+        {
+          "id": 626,
+          "title": "Moral Values & Good Habits - Practice Task 6",
+          "instructions": "Complete this fun activity for Moral Values & Good Habits. Follow the steps carefully and submit your work to your teacher."
+        },
+        {
+          "id": 627,
+          "title": "Moral Values & Good Habits - Practice Task 7",
+          "instructions": "Complete this fun activity for Moral Values & Good Habits. Follow the steps carefully and submit your work to your teacher."
+        },
+        {
+          "id": 628,
+          "title": "Moral Values & Good Habits - Practice Task 8",
+          "instructions": "Complete this fun activity for Moral Values & Good Habits. Follow the steps carefully and submit your work to your teacher."
+        },
+        {
+          "id": 629,
+          "title": "Moral Values & Good Habits - Practice Task 9",
+          "instructions": "Complete this fun activity for Moral Values & Good Habits. Follow the steps carefully and submit your work to your teacher."
+        },
+        {
+          "id": 630,
+          "title": "Moral Values & Good Habits - Practice Task 10",
+          "instructions": "Complete this fun activity for Moral Values & Good Habits. Follow the steps carefully and submit your work to your teacher."
+        }
+      ],
+      "chapters": [
+        {
+          "chapterTitle": {
+            "en": "Additional Chapter 1"
+          },
+          "questions": []
+        },
+        {
+          "chapterTitle": {
+            "en": "Additional Chapter  2"
+          },
+          "questions": []
+        },
+        {
+          "chapterTitle": {
+            "en": "Additional Chapter   3"
+          },
+          "questions": []
+        },
+        {
+          "chapterTitle": {
+            "en": "Additional Chapter    4"
+          },
+          "questions": []
+        },
+        {
+          "chapterTitle": {
+            "en": "Additional Chapter     5"
+          },
+          "questions": []
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Basic Math Adventures",
+      "description": "Fun addition, subtraction, and number games!",
+      "classLevel": "CLASS_2",
+      "durationWeeks": 5,
+      "instructorName": "Mr. Sanjay Chopra",
+      "price": 0,
+      "thumbnailImageUrl": "https://images.unsplash.com/photo-1625246333195-78d9c38ad576?w=500&h=300&fit=crop",
+      "assignments": [
+        {
+          "id": 701,
+          "title": "Addition basics",
+          "instructions": "Solve: 2+1=?, 3+2=?, 4+1=? with pictures",
+          "submissionType": "IMAGE",
+          "maxScore": 10
+        },
+        {
+          "id": 702,
+          "title": "Subtraction story",
+          "instructions": "Draw subtraction: 5-2 apples, 6-3 flowers",
+          "submissionType": "IMAGE",
+          "maxScore": 10
+        },
+        {
+          "id": 703,
+          "title": "Number bond",
+          "instructions": "Show 10 = 7+3, 10 = 5+5, etc.",
+          "submissionType": "IMAGE",
+          "maxScore": 10
+        },
+        {
+          "id": 704,
+          "title": "Skip counting",
+          "instructions": "Count by 2s, 5s, and 10s up to 50",
+          "submissionType": "TEXT",
+          "maxScore": 10
+        },
+        {
+          "id": 705,
+          "title": "Money counting",
+          "instructions": "Count coins and find the total value",
+          "submissionType": "TEXT",
+          "maxScore": 10
+        },
+        {
+          "id": 706,
+          "title": "Time telling",
+          "instructions": "Draw clock hands showing 3:00, 6:00, 9:00",
+          "submissionType": "IMAGE",
+          "maxScore": 10
+        },
+        {
+          "id": 707,
+          "title": "Place value",
+          "instructions": "Write tens and ones: 23 = 2 tens + 3 ones",
+          "submissionType": "TEXT",
+          "maxScore": 10
+        },
+        {
+          "id": 708,
+          "title": "Compare numbers",
+          "instructions": "Use > < = signs: 15_12, 20_20, 8_15",
+          "submissionType": "TEXT",
+          "maxScore": 10
+        },
+        {
+          "id": 709,
+          "title": "Number sentence",
+          "instructions": "Make math sentences: _+3=8, 5+_=9",
+          "submissionType": "TEXT",
+          "maxScore": 10
+        },
+        {
+          "id": 710,
+          "title": "Measurement",
+          "instructions": "Measure objects and compare lengths",
+          "submissionType": "IMAGE",
+          "maxScore": 10
+        },
+        {
+          "id": 711,
+          "title": "Shapes count",
+          "instructions": "Count shapes in a picture (circles, squares, etc.)",
+          "submissionType": "TEXT",
+          "maxScore": 10
+        },
+        {
+          "id": 712,
+          "title": "Array arrangement",
+          "instructions": "Arrange objects in rows and columns",
+          "submissionType": "IMAGE",
+          "maxScore": 10
+        },
+        {
+          "id": 713,
+          "title": "Word problem",
+          "instructions": "Solve: 'If you have 3 toys and get 2 more, how many total?'",
+          "submissionType": "TEXT",
+          "maxScore": 15
+        },
+        {
+          "id": 714,
+          "title": "Fact families",
+          "instructions": "Show: 2+3=5, 3+2=5, 5-2=3, 5-3=2",
+          "submissionType": "TEXT",
+          "maxScore": 10
+        },
+        {
+          "id": 715,
+          "title": "Doubles practice",
+          "instructions": "Draw double: 2+2=4, 5+5=10, 6+6=12",
+          "submissionType": "IMAGE",
+          "maxScore": 10
+        },
+        {
+          "id": 716,
+          "title": "Group by 10",
+          "instructions": "Group objects into tens and ones",
+          "submissionType": "IMAGE",
+          "maxScore": 10
+        },
+        {
+          "id": 717,
+          "title": "Addition strategies",
+          "instructions": "Use number line to solve 4+6",
+          "submissionType": "IMAGE",
+          "maxScore": 10
+        },
+        {
+          "id": 718,
+          "title": "Subtraction strategies",
+          "instructions": "Use pictures to show 8-5",
+          "submissionType": "IMAGE",
+          "maxScore": 15
+        },
+        {
+          "id": 719,
+          "title": "Calendar math",
+          "instructions": "Count days and weeks on a calendar",
+          "submissionType": "TEXT",
+          "maxScore": 10
+        },
+        {
+          "id": 720,
+          "title": "Real-world math",
+          "instructions": "Calculate total cost of buying 2 items with prices",
+          "submissionType": "TEXT",
+          "maxScore": 15
+        },
+        {
+          "id": 721,
+          "title": "Basic Math Adventures - Practice Task 1",
+          "instructions": "Complete this fun activity for Basic Math Adventures. Follow the steps carefully and submit your work to your teacher."
+        },
+        {
+          "id": 722,
+          "title": "Basic Math Adventures - Practice Task 2",
+          "instructions": "Complete this fun activity for Basic Math Adventures. Follow the steps carefully and submit your work to your teacher."
+        },
+        {
+          "id": 723,
+          "title": "Basic Math Adventures - Practice Task 3",
+          "instructions": "Complete this fun activity for Basic Math Adventures. Follow the steps carefully and submit your work to your teacher."
+        },
+        {
+          "id": 724,
+          "title": "Basic Math Adventures - Practice Task 4",
+          "instructions": "Complete this fun activity for Basic Math Adventures. Follow the steps carefully and submit your work to your teacher."
+        },
+        {
+          "id": 725,
+          "title": "Basic Math Adventures - Practice Task 5",
+          "instructions": "Complete this fun activity for Basic Math Adventures. Follow the steps carefully and submit your work to your teacher."
+        },
+        {
+          "id": 726,
+          "title": "Basic Math Adventures - Practice Task 6",
+          "instructions": "Complete this fun activity for Basic Math Adventures. Follow the steps carefully and submit your work to your teacher."
+        },
+        {
+          "id": 727,
+          "title": "Basic Math Adventures - Practice Task 7",
+          "instructions": "Complete this fun activity for Basic Math Adventures. Follow the steps carefully and submit your work to your teacher."
+        },
+        {
+          "id": 728,
+          "title": "Basic Math Adventures - Practice Task 8",
+          "instructions": "Complete this fun activity for Basic Math Adventures. Follow the steps carefully and submit your work to your teacher."
+        },
+        {
+          "id": 729,
+          "title": "Basic Math Adventures - Practice Task 9",
+          "instructions": "Complete this fun activity for Basic Math Adventures. Follow the steps carefully and submit your work to your teacher."
+        },
+        {
+          "id": 730,
+          "title": "Basic Math Adventures - Practice Task 10",
+          "instructions": "Complete this fun activity for Basic Math Adventures. Follow the steps carefully and submit your work to your teacher."
+        }
+      ],
+      "chapters": [
+        {
+          "chapterTitle": {
+            "en": "Additional Chapter 1"
+          },
+          "questions": []
+        },
+        {
+          "chapterTitle": {
+            "en": "Additional Chapter  2"
+          },
+          "questions": []
+        },
+        {
+          "chapterTitle": {
+            "en": "Additional Chapter   3"
+          },
+          "questions": []
+        },
+        {
+          "chapterTitle": {
+            "en": "Additional Chapter    4"
+          },
+          "questions": []
+        },
+        {
+          "chapterTitle": {
+            "en": "Additional Chapter     5"
+          },
+          "questions": []
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Science Explorers",
+      "description": "Discover plants, animals, weather, and nature!",
+      "classLevel": "CLASS_2",
+      "durationWeeks": 5,
+      "instructorName": "Mrs. Neha Gupta",
+      "price": 0,
+      "thumbnailImageUrl": "https://images.unsplash.com/photo-1446776653964-20c1d3a81b06?w=500&h=300&fit=crop",
+      "assignments": [
+        {
+          "id": 801,
+          "title": "Plant parts",
+          "instructions": "Draw a plant and label: root, stem, leaf, flower",
+          "submissionType": "IMAGE",
+          "maxScore": 10
+        },
+        {
+          "id": 802,
+          "title": "Leaf collection",
+          "instructions": "Collect 5 leaves and paste them in order of size",
+          "submissionType": "IMAGE",
+          "maxScore": 10
+        },
+        {
+          "id": 803,
+          "title": "Animal habitats",
+          "instructions": "Draw where 3 different animals live",
+          "submissionType": "IMAGE",
+          "maxScore": 10
+        },
+        {
+          "id": 804,
+          "title": "Food chain",
+          "instructions": "Draw and describe a food chain",
+          "submissionType": "IMAGE",
+          "maxScore": 15
+        },
+        {
+          "id": 805,
+          "title": "Weather journal",
+          "instructions": "Draw and write about today's weather",
+          "submissionType": "IMAGE",
+          "maxScore": 10
+        },
+        {
+          "id": 806,
+          "title": "Seasons change",
+          "instructions": "Draw the same tree in all 4 seasons",
+          "submissionType": "IMAGE",
+          "maxScore": 15
+        },
+        {
+          "id": 807,
+          "title": "Water cycle",
+          "instructions": "Draw evaporation, condensation, precipitation",
+          "submissionType": "IMAGE",
+          "maxScore": 15
+        },
+        {
+          "id": 808,
+          "title": "Insect observation",
+          "instructions": "Observe and draw an insect",
+          "submissionType": "IMAGE",
+          "maxScore": 10
+        },
+        {
+          "id": 809,
+          "title": "Rock collection",
+          "instructions": "Collect 5 rocks and describe them",
+          "submissionType": "IMAGE",
+          "maxScore": 10
+        },
+        {
+          "id": 810,
+          "title": "Bird identification",
+          "instructions": "Draw and name 3 birds you've seen",
+          "submissionType": "IMAGE",
+          "maxScore": 10
+        },
+        {
+          "id": 811,
+          "title": "Body parts",
+          "instructions": "Label main body parts on a human drawing",
+          "submissionType": "IMAGE",
+          "maxScore": 10
+        },
+        {
+          "id": 812,
+          "title": "Five senses",
+          "instructions": "Draw pictures for each of the 5 senses",
+          "submissionType": "IMAGE",
+          "maxScore": 15
+        },
+        {
+          "id": 813,
+          "title": "Plant growth",
+          "instructions": "Draw a seed growing into a plant (stages)",
+          "submissionType": "IMAGE",
+          "maxScore": 10
+        },
+        {
+          "id": 814,
+          "title": "Life cycle",
+          "instructions": "Draw the life cycle of a butterfly or frog",
+          "submissionType": "IMAGE",
+          "maxScore": 15
+        },
+        {
+          "id": 815,
+          "title": "Day and night",
+          "instructions": "Draw daytime and nighttime scenes",
+          "submissionType": "IMAGE",
+          "maxScore": 10
+        },
+        {
+          "id": 816,
+          "title": "Moon phases",
+          "instructions": "Draw all phases of the moon",
+          "submissionType": "IMAGE",
+          "maxScore": 15
+        },
+        {
+          "id": 817,
+          "title": "Healthy eating",
+          "instructions": "Draw a balanced meal with all food groups",
+          "submissionType": "IMAGE",
+          "maxScore": 10
+        },
+        {
+          "id": 818,
+          "title": "Exercise benefits",
+          "instructions": "Write why exercise is important",
+          "submissionType": "TEXT",
+          "maxScore": 10
+        },
+        {
+          "id": 819,
+          "title": "Ecosystem drawing",
+          "instructions": "Create a complete ecosystem with plants and animals",
+          "submissionType": "IMAGE",
+          "maxScore": 15
+        },
+        {
+          "id": 820,
+          "title": "Nature walk",
+          "instructions": "Take photos or draw 5 things from nature",
+          "submissionType": "IMAGE",
+          "maxScore": 15
+        },
+        {
+          "id": 821,
+          "title": "Science Explorers - Practice Task 1",
+          "instructions": "Complete this fun activity for Science Explorers. Follow the steps carefully and submit your work to your teacher."
+        },
+        {
+          "id": 822,
+          "title": "Science Explorers - Practice Task 2",
+          "instructions": "Complete this fun activity for Science Explorers. Follow the steps carefully and submit your work to your teacher."
+        },
+        {
+          "id": 823,
+          "title": "Science Explorers - Practice Task 3",
+          "instructions": "Complete this fun activity for Science Explorers. Follow the steps carefully and submit your work to your teacher."
+        },
+        {
+          "id": 824,
+          "title": "Science Explorers - Practice Task 4",
+          "instructions": "Complete this fun activity for Science Explorers. Follow the steps carefully and submit your work to your teacher."
+        },
+        {
+          "id": 825,
+          "title": "Science Explorers - Practice Task 5",
+          "instructions": "Complete this fun activity for Science Explorers. Follow the steps carefully and submit your work to your teacher."
+        },
+        {
+          "id": 826,
+          "title": "Science Explorers - Practice Task 6",
+          "instructions": "Complete this fun activity for Science Explorers. Follow the steps carefully and submit your work to your teacher."
+        },
+        {
+          "id": 827,
+          "title": "Science Explorers - Practice Task 7",
+          "instructions": "Complete this fun activity for Science Explorers. Follow the steps carefully and submit your work to your teacher."
+        },
+        {
+          "id": 828,
+          "title": "Science Explorers - Practice Task 8",
+          "instructions": "Complete this fun activity for Science Explorers. Follow the steps carefully and submit your work to your teacher."
+        },
+        {
+          "id": 829,
+          "title": "Science Explorers - Practice Task 9",
+          "instructions": "Complete this fun activity for Science Explorers. Follow the steps carefully and submit your work to your teacher."
+        },
+        {
+          "id": 830,
+          "title": "Science Explorers - Practice Task 10",
+          "instructions": "Complete this fun activity for Science Explorers. Follow the steps carefully and submit your work to your teacher."
+        }
+      ],
+      "chapters": [
+        {
+          "chapterTitle": {
+            "en": "Additional Chapter 1"
+          },
+          "questions": []
+        },
+        {
+          "chapterTitle": {
+            "en": "Additional Chapter  2"
+          },
+          "questions": []
+        },
+        {
+          "chapterTitle": {
+            "en": "Additional Chapter   3"
+          },
+          "questions": []
+        },
+        {
+          "chapterTitle": {
+            "en": "Additional Chapter    4"
+          },
+          "questions": []
+        },
+        {
+          "chapterTitle": {
+            "en": "Additional Chapter     5"
+          },
+          "questions": []
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Reading & Writing Fun",
+      "description": "Improve reading skills with exciting stories!",
+      "classLevel": "CLASS_2",
+      "durationWeeks": 4,
+      "instructorName": "Ms. Priya Nair",
+      "price": 0,
+      "thumbnailImageUrl": "https://images.unsplash.com/photo-1507842217343-583f7270bfba?w=500&h=300&fit=crop",
+      "assignments": [
+        {
+          "id": 901,
+          "title": "Sight words",
+          "instructions": "Write 10 sight words (the, and, is, etc.)",
+          "submissionType": "TEXT",
+          "maxScore": 10
+        },
+        {
+          "id": 902,
+          "title": "Word family",
+          "instructions": "List words ending in -at, -an, -og",
+          "submissionType": "TEXT",
+          "maxScore": 10
+        },
+        {
+          "id": 903,
+          "title": "Sentence building",
+          "instructions": "Build sentences with CVC words",
+          "submissionType": "TEXT",
+          "maxScore": 10
+        },
+        {
+          "id": 904,
+          "title": "Story summary",
+          "instructions": "Read a story and write what happened",
+          "submissionType": "TEXT",
+          "maxScore": 15
+        },
+        {
+          "id": 905,
+          "title": "Character questions",
+          "instructions": "Answer questions about a story's character",
+          "submissionType": "TEXT",
+          "maxScore": 10
+        },
+        {
+          "id": 906,
+          "title": "Main idea",
+          "instructions": "Read short text and find the main idea",
+          "submissionType": "TEXT",
+          "maxScore": 10
+        },
+        {
+          "id": 907,
+          "title": "Sequence events",
+          "instructions": "Order story events: first, second, last",
+          "submissionType": "IMAGE",
+          "maxScore": 10
+        },
+        {
+          "id": 908,
+          "title": "Vocabulary matching",
+          "instructions": "Match words with their meanings",
+          "submissionType": "TEXT",
+          "maxScore": 10
+        },
+        {
+          "id": 909,
+          "title": "Descriptive words",
+          "instructions": "Use adjectives: The _ dog ate _ food",
+          "submissionType": "TEXT",
+          "maxScore": 10
+        },
+        {
+          "id": 910,
+          "title": "Write your name",
+          "instructions": "Practice writing your full name neatly",
+          "submissionType": "IMAGE",
+          "maxScore": 10
+        },
+        {
+          "id": 911,
+          "title": "Sentence punctuation",
+          "instructions": "Add periods and capital letters correctly",
+          "submissionType": "TEXT",
+          "maxScore": 10
+        },
+        {
+          "id": 912,
+          "title": "Question formation",
+          "instructions": "Write 5 questions about a picture",
+          "submissionType": "TEXT",
+          "maxScore": 10
+        },
+        {
+          "id": 913,
+          "title": "Rhyming pairs",
+          "instructions": "Find rhyming words in a passage",
+          "submissionType": "TEXT",
+          "maxScore": 10
+        },
+        {
+          "id": 914,
+          "title": "Story beginning",
+          "instructions": "Write the beginning of your own story",
+          "submissionType": "TEXT",
+          "maxScore": 15
+        },
+        {
+          "id": 915,
+          "title": "Retelling story",
+          "instructions": "Retell a familiar story in your own words",
+          "submissionType": "TEXT",
+          "maxScore": 10
+        },
+        {
+          "id": 916,
+          "title": "Compound words",
+          "instructions": "Find or make compound words",
+          "submissionType": "TEXT",
+          "maxScore": 10
+        },
+        {
+          "id": 917,
+          "title": "Plural forms",
+          "instructions": "Change words to plural: cat-cats, box-boxes",
+          "submissionType": "TEXT",
+          "maxScore": 10
+        },
+        {
+          "id": 918,
+          "title": "Missing letters",
+          "instructions": "Fill in missing letters: c_t, d_g, h_t",
+          "submissionType": "TEXT",
+          "maxScore": 10
+        },
+        {
+          "id": 919,
+          "title": "Story prediction",
+          "instructions": "Predict what happens next in a story",
+          "submissionType": "TEXT",
+          "maxScore": 15
+        },
+        {
+          "id": 920,
+          "title": "Letter writing",
+          "instructions": "Write a friendly letter",
+          "submissionType": "TEXT",
+          "maxScore": 15
+        },
+        {
+          "id": 921,
+          "title": "Reading & Writing Fun - Practice Task 1",
+          "instructions": "Complete this fun activity for Reading & Writing Fun. Follow the steps carefully and submit your work to your teacher."
+        },
+        {
+          "id": 922,
+          "title": "Reading & Writing Fun - Practice Task 2",
+          "instructions": "Complete this fun activity for Reading & Writing Fun. Follow the steps carefully and submit your work to your teacher."
+        },
+        {
+          "id": 923,
+          "title": "Reading & Writing Fun - Practice Task 3",
+          "instructions": "Complete this fun activity for Reading & Writing Fun. Follow the steps carefully and submit your work to your teacher."
+        },
+        {
+          "id": 924,
+          "title": "Reading & Writing Fun - Practice Task 4",
+          "instructions": "Complete this fun activity for Reading & Writing Fun. Follow the steps carefully and submit your work to your teacher."
+        },
+        {
+          "id": 925,
+          "title": "Reading & Writing Fun - Practice Task 5",
+          "instructions": "Complete this fun activity for Reading & Writing Fun. Follow the steps carefully and submit your work to your teacher."
+        },
+        {
+          "id": 926,
+          "title": "Reading & Writing Fun - Practice Task 6",
+          "instructions": "Complete this fun activity for Reading & Writing Fun. Follow the steps carefully and submit your work to your teacher."
+        },
+        {
+          "id": 927,
+          "title": "Reading & Writing Fun - Practice Task 7",
+          "instructions": "Complete this fun activity for Reading & Writing Fun. Follow the steps carefully and submit your work to your teacher."
+        },
+        {
+          "id": 928,
+          "title": "Reading & Writing Fun - Practice Task 8",
+          "instructions": "Complete this fun activity for Reading & Writing Fun. Follow the steps carefully and submit your work to your teacher."
+        },
+        {
+          "id": 929,
+          "title": "Reading & Writing Fun - Practice Task 9",
+          "instructions": "Complete this fun activity for Reading & Writing Fun. Follow the steps carefully and submit your work to your teacher."
+        },
+        {
+          "id": 930,
+          "title": "Reading & Writing Fun - Practice Task 10",
+          "instructions": "Complete this fun activity for Reading & Writing Fun. Follow the steps carefully and submit your work to your teacher."
+        }
+      ],
+      "chapters": [
+        {
+          "chapterTitle": {
+            "en": "Additional Chapter 1"
+          },
+          "questions": []
+        },
+        {
+          "chapterTitle": {
+            "en": "Additional Chapter  2"
+          },
+          "questions": []
+        },
+        {
+          "chapterTitle": {
+            "en": "Additional Chapter   3"
+          },
+          "questions": []
+        },
+        {
+          "chapterTitle": {
+            "en": "Additional Chapter    4"
+          },
+          "questions": []
+        },
+        {
+          "chapterTitle": {
+            "en": "Additional Chapter     5"
+          },
+          "questions": []
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Creative Arts & Crafts",
+      "description": "Make beautiful projects with your hands!",
+      "classLevel": "CLASS_3",
+      "durationWeeks": 4,
+      "instructorName": "Mr. Arjun Das",
+      "price": 0,
+      "thumbnailImageUrl": "https://images.unsplash.com/photo-1513364776144-60967b0f800f?w=500&h=300&fit=crop",
+      "assignments": [
+        {
+          "id": 1001,
+          "title": "Paper collage",
+          "instructions": "Cut and paste colored paper to make a picture",
+          "submissionType": "IMAGE",
+          "maxScore": 10
+        },
+        {
+          "id": 1002,
+          "title": "Clay modeling",
+          "instructions": "Make shapes with clay and take a photo",
+          "submissionType": "IMAGE",
+          "maxScore": 10
+        },
+        {
+          "id": 1003,
+          "title": "Painted rocks",
+          "instructions": "Paint rocks to look like animals",
+          "submissionType": "IMAGE",
+          "maxScore": 10
+        },
+        {
+          "id": 1004,
+          "title": "Greeting card",
+          "instructions": "Make a card with decorations",
+          "submissionType": "IMAGE",
+          "maxScore": 10
+        },
+        {
+          "id": 1005,
+          "title": "Paper chain",
+          "instructions": "Make a paper chain and count the links",
+          "submissionType": "IMAGE",
+          "maxScore": 10
+        },
+        {
+          "id": 1006,
+          "title": "Origami simple",
+          "instructions": "Make a paper crane or boat",
+          "submissionType": "IMAGE",
+          "maxScore": 15
+        },
+        {
+          "id": 1007,
+          "title": "Mask creation",
+          "instructions": "Design and make a decorative mask",
+          "submissionType": "IMAGE",
+          "maxScore": 15
+        },
+        {
+          "id": 1008,
+          "title": "Papier-mâché",
+          "instructions": "Make a bowl or vase with papier-mâché",
+          "submissionType": "IMAGE",
+          "maxScore": 15
+        },
+        {
+          "id": 1009,
+          "title": "String art",
+          "instructions": "Create designs using string and nails",
+          "submissionType": "IMAGE",
+          "maxScore": 15
+        },
+        {
+          "id": 1010,
+          "title": "Nature craft",
+          "instructions": "Use natural materials (leaves, twigs) for art",
+          "submissionType": "IMAGE",
+          "maxScore": 10
+        },
+        {
+          "id": 1011,
+          "title": "Tie dye",
+          "instructions": "Tie-dye a cloth with different patterns",
+          "submissionType": "IMAGE",
+          "maxScore": 15
+        },
+        {
+          "id": 1012,
+          "title": "Stamping art",
+          "instructions": "Use stamps or sponges to create patterns",
+          "submissionType": "IMAGE",
+          "maxScore": 10
+        },
+        {
+          "id": 1013,
+          "title": "Marble painting",
+          "instructions": "Roll marbles in paint to make designs",
+          "submissionType": "IMAGE",
+          "maxScore": 10
+        },
+        {
+          "id": 1014,
+          "title": "Handprint art",
+          "instructions": "Use handprints to create creatures or patterns",
+          "submissionType": "IMAGE",
+          "maxScore": 10
+        },
+        {
+          "id": 1015,
+          "title": "Scrapbooking",
+          "instructions": "Create a page in a scrapbook",
+          "submissionType": "IMAGE",
+          "maxScore": 15
+        },
+        {
+          "id": 1016,
+          "title": "Jewelry making",
+          "instructions": "Make a bracelet or necklace with beads",
+          "submissionType": "IMAGE",
+          "maxScore": 15
+        },
+        {
+          "id": 1017,
+          "title": "Foam craft",
+          "instructions": "Create shapes from foam sheets",
+          "submissionType": "IMAGE",
+          "maxScore": 10
+        },
+        {
+          "id": 1018,
+          "title": "Mixed media",
+          "instructions": "Combine different materials for one artwork",
+          "submissionType": "IMAGE",
+          "maxScore": 15
+        },
+        {
+          "id": 1019,
+          "title": "Weaving",
+          "instructions": "Create a simple weaving on paper or cardboard",
+          "submissionType": "IMAGE",
+          "maxScore": 15
+        },
+        {
+          "id": 1020,
+          "title": "3D model",
+          "instructions": "Build a 3D structure with household materials",
+          "submissionType": "IMAGE",
+          "maxScore": 15
+        },
+        {
+          "id": 1021,
+          "title": "Creative Arts & Crafts - Practice Task 1",
+          "instructions": "Complete this fun activity for Creative Arts & Crafts. Follow the steps carefully and submit your work to your teacher."
+        },
+        {
+          "id": 1022,
+          "title": "Creative Arts & Crafts - Practice Task 2",
+          "instructions": "Complete this fun activity for Creative Arts & Crafts. Follow the steps carefully and submit your work to your teacher."
+        },
+        {
+          "id": 1023,
+          "title": "Creative Arts & Crafts - Practice Task 3",
+          "instructions": "Complete this fun activity for Creative Arts & Crafts. Follow the steps carefully and submit your work to your teacher."
+        },
+        {
+          "id": 1024,
+          "title": "Creative Arts & Crafts - Practice Task 4",
+          "instructions": "Complete this fun activity for Creative Arts & Crafts. Follow the steps carefully and submit your work to your teacher."
+        },
+        {
+          "id": 1025,
+          "title": "Creative Arts & Crafts - Practice Task 5",
+          "instructions": "Complete this fun activity for Creative Arts & Crafts. Follow the steps carefully and submit your work to your teacher."
+        },
+        {
+          "id": 1026,
+          "title": "Creative Arts & Crafts - Practice Task 6",
+          "instructions": "Complete this fun activity for Creative Arts & Crafts. Follow the steps carefully and submit your work to your teacher."
+        },
+        {
+          "id": 1027,
+          "title": "Creative Arts & Crafts - Practice Task 7",
+          "instructions": "Complete this fun activity for Creative Arts & Crafts. Follow the steps carefully and submit your work to your teacher."
+        },
+        {
+          "id": 1028,
+          "title": "Creative Arts & Crafts - Practice Task 8",
+          "instructions": "Complete this fun activity for Creative Arts & Crafts. Follow the steps carefully and submit your work to your teacher."
+        },
+        {
+          "id": 1029,
+          "title": "Creative Arts & Crafts - Practice Task 9",
+          "instructions": "Complete this fun activity for Creative Arts & Crafts. Follow the steps carefully and submit your work to your teacher."
+        },
+        {
+          "id": 1030,
+          "title": "Creative Arts & Crafts - Practice Task 10",
+          "instructions": "Complete this fun activity for Creative Arts & Crafts. Follow the steps carefully and submit your work to your teacher."
+        }
+      ],
+      "chapters": [
+        {
+          "chapterTitle": {
+            "en": "Additional Chapter 1"
+          },
+          "questions": []
+        },
+        {
+          "chapterTitle": {
+            "en": "Additional Chapter  2"
+          },
+          "questions": []
+        },
+        {
+          "chapterTitle": {
+            "en": "Additional Chapter   3"
+          },
+          "questions": []
+        },
+        {
+          "chapterTitle": {
+            "en": "Additional Chapter    4"
+          },
+          "questions": []
+        },
+        {
+          "chapterTitle": {
+            "en": "Additional Chapter     5"
+          },
+          "questions": []
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "title": "English Grammar Basics",
+      "description": "Learn nouns, verbs, sentences, and more!",
+      "classLevel": "CLASS_3",
+      "durationWeeks": 4,
+      "instructorName": "Mrs. Isha Sharma",
+      "price": 0,
+      "thumbnailImageUrl": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?w=500&h=300&fit=crop",
+      "assignments": [
+        {
+          "id": 1101,
+          "title": "Nouns list",
+          "instructions": "List 15 nouns (people, places, things)",
+          "submissionType": "TEXT",
+          "maxScore": 10
+        },
+        {
+          "id": 1102,
+          "title": "Verb action",
+          "instructions": "Draw 5 verbs being performed (run, jump, swim)",
+          "submissionType": "IMAGE",
+          "maxScore": 10
+        },
+        {
+          "id": 1103,
+          "title": "Adjective describing",
+          "instructions": "Use adjectives: The _ dog, The _ cat",
+          "submissionType": "TEXT",
+          "maxScore": 10
+        },
+        {
+          "id": 1104,
+          "title": "Sentences correct",
+          "instructions": "Fix sentences with wrong grammar",
+          "submissionType": "TEXT",
+          "maxScore": 10
+        },
+        {
+          "id": 1105,
+          "title": "Pronoun substitution",
+          "instructions": "Replace nouns with pronouns (he, she, it, they)",
+          "submissionType": "TEXT",
+          "maxScore": 10
+        },
+        {
+          "id": 1106,
+          "title": "Question words",
+          "instructions": "Write sentences with Who, What, Where, When, Why",
+          "submissionType": "TEXT",
+          "maxScore": 10
+        },
+        {
+          "id": 1107,
+          "title": "Tense practice",
+          "instructions": "Write past, present, future: I jump, I jumped, I will jump",
+          "submissionType": "TEXT",
+          "maxScore": 15
+        },
+        {
+          "id": 1108,
+          "title": "Singular plural",
+          "instructions": "Change to plural: pen-pens, box-boxes",
+          "submissionType": "TEXT",
+          "maxScore": 10
+        },
+        {
+          "id": 1109,
+          "title": "Sentence structure",
+          "instructions": "Build complete sentences with subject and verb",
+          "submissionType": "TEXT",
+          "maxScore": 10
+        },
+        {
+          "id": 1110,
+          "title": "Conjunction use",
+          "instructions": "Use and, but, or in sentences",
+          "submissionType": "TEXT",
+          "maxScore": 10
+        },
+        {
+          "id": 1111,
+          "title": "Preposition",
+          "instructions": "Use prepositions: in, on, under, over",
+          "submissionType": "TEXT",
+          "maxScore": 10
+        },
+        {
+          "id": 1112,
+          "title": "Capitalization",
+          "instructions": "Fix capitalization in sentences",
+          "submissionType": "TEXT",
+          "maxScore": 10
+        },
+        {
+          "id": 1113,
+          "title": "Punctuation marks",
+          "instructions": "Place periods, question marks, exclamation marks correctly",
+          "submissionType": "TEXT",
+          "maxScore": 10
+        },
+        {
+          "id": 1114,
+          "title": "Dialogue writing",
+          "instructions": "Write a conversation between two characters",
+          "submissionType": "TEXT",
+          "maxScore": 15
+        },
+        {
+          "id": 1115,
+          "title": "Subject-verb agreement",
+          "instructions": "Choose correct verb form",
+          "submissionType": "TEXT",
+          "maxScore": 10
+        },
+        {
+          "id": 1116,
+          "title": "Adjective comparison",
+          "instructions": "Use bigger, biggest, smaller, smallest",
+          "submissionType": "TEXT",
+          "maxScore": 10
+        },
+        {
+          "id": 1117,
+          "title": "Negative sentences",
+          "instructions": "Write sentences with 'not' and 'don't'",
+          "submissionType": "TEXT",
+          "maxScore": 10
+        },
+        {
+          "id": 1118,
+          "title": "Sentence combination",
+          "instructions": "Combine two short sentences into one",
+          "submissionType": "TEXT",
+          "maxScore": 15
+        },
+        {
+          "id": 1119,
+          "title": "Parts of speech",
+          "instructions": "Identify nouns, verbs, adjectives in a paragraph",
+          "submissionType": "TEXT",
+          "maxScore": 10
+        },
+        {
+          "id": 1120,
+          "title": "Paragraph writing",
+          "instructions": "Write a paragraph with 5 sentences on one topic",
+          "submissionType": "TEXT",
+          "maxScore": 15
+        },
+        {
+          "id": 1121,
+          "title": "English Grammar Basics - Practice Task 1",
+          "instructions": "Complete this fun activity for English Grammar Basics. Follow the steps carefully and submit your work to your teacher."
+        },
+        {
+          "id": 1122,
+          "title": "English Grammar Basics - Practice Task 2",
+          "instructions": "Complete this fun activity for English Grammar Basics. Follow the steps carefully and submit your work to your teacher."
+        },
+        {
+          "id": 1123,
+          "title": "English Grammar Basics - Practice Task 3",
+          "instructions": "Complete this fun activity for English Grammar Basics. Follow the steps carefully and submit your work to your teacher."
+        },
+        {
+          "id": 1124,
+          "title": "English Grammar Basics - Practice Task 4",
+          "instructions": "Complete this fun activity for English Grammar Basics. Follow the steps carefully and submit your work to your teacher."
+        },
+        {
+          "id": 1125,
+          "title": "English Grammar Basics - Practice Task 5",
+          "instructions": "Complete this fun activity for English Grammar Basics. Follow the steps carefully and submit your work to your teacher."
+        },
+        {
+          "id": 1126,
+          "title": "English Grammar Basics - Practice Task 6",
+          "instructions": "Complete this fun activity for English Grammar Basics. Follow the steps carefully and submit your work to your teacher."
+        },
+        {
+          "id": 1127,
+          "title": "English Grammar Basics - Practice Task 7",
+          "instructions": "Complete this fun activity for English Grammar Basics. Follow the steps carefully and submit your work to your teacher."
+        },
+        {
+          "id": 1128,
+          "title": "English Grammar Basics - Practice Task 8",
+          "instructions": "Complete this fun activity for English Grammar Basics. Follow the steps carefully and submit your work to your teacher."
+        },
+        {
+          "id": 1129,
+          "title": "English Grammar Basics - Practice Task 9",
+          "instructions": "Complete this fun activity for English Grammar Basics. Follow the steps carefully and submit your work to your teacher."
+        },
+        {
+          "id": 1130,
+          "title": "English Grammar Basics - Practice Task 10",
+          "instructions": "Complete this fun activity for English Grammar Basics. Follow the steps carefully and submit your work to your teacher."
+        }
+      ],
+      "chapters": [
+        {
+          "chapterTitle": {
+            "en": "Additional Chapter 1"
+          },
+          "questions": []
+        },
+        {
+          "chapterTitle": {
+            "en": "Additional Chapter  2"
+          },
+          "questions": []
+        },
+        {
+          "chapterTitle": {
+            "en": "Additional Chapter   3"
+          },
+          "questions": []
+        },
+        {
+          "chapterTitle": {
+            "en": "Additional Chapter    4"
+          },
+          "questions": []
+        },
+        {
+          "chapterTitle": {
+            "en": "Additional Chapter     5"
+          },
+          "questions": []
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Mathematics Mastery",
+      "description": "Master multiplication, division, and problem-solving!",
+      "classLevel": "CLASS_3",
+      "durationWeeks": 5,
+      "instructorName": "Mr. Rohan Verma",
+      "price": 0,
+      "thumbnailImageUrl": "https://images.unsplash.com/photo-1625246333195-78d9c38ad576?w=500&h=300&fit=crop",
+      "assignments": [
+        {
+          "id": 1201,
+          "title": "Multiplication basics",
+          "instructions": "Solve: 2×3=?, 4×2=?, 5×3=? with pictures",
+          "submissionType": "IMAGE",
+          "maxScore": 10
+        },
+        {
+          "id": 1202,
+          "title": "Groups of",
+          "instructions": "Show 3 groups of 4 = 12 with drawings",
+          "submissionType": "IMAGE",
+          "maxScore": 10
+        },
+        {
+          "id": 1203,
+          "title": "Skip counting x2",
+          "instructions": "Count by 2s: 2, 4, 6, _, _, _",
+          "submissionType": "TEXT",
+          "maxScore": 10
+        },
+        {
+          "id": 1204,
+          "title": "Skip counting x5",
+          "instructions": "Count by 5s: 5, 10, 15, _, _, _",
+          "submissionType": "TEXT",
+          "maxScore": 10
+        },
+        {
+          "id": 1205,
+          "title": "Multiplication table",
+          "instructions": "Create a 5×5 multiplication table",
+          "submissionType": "IMAGE",
+          "maxScore": 15
+        },
+        {
+          "id": 1206,
+          "title": "Array problems",
+          "instructions": "Solve multiplication using arrays",
+          "submissionType": "IMAGE",
+          "maxScore": 10
+        },
+        {
+          "id": 1207,
+          "title": "Division sharing",
+          "instructions": "Show 12÷3 by sharing equally",
+          "submissionType": "IMAGE",
+          "maxScore": 10
+        },
+        {
+          "id": 1208,
+          "title": "Division problems",
+          "instructions": "Solve: 15÷5=?, 20÷4=?, 18÷3=?",
+          "submissionType": "TEXT",
+          "maxScore": 10
+        },
+        {
+          "id": 1209,
+          "title": "Word problems",
+          "instructions": "Solve: 'If 3 friends have 4 apples each, how many total?'",
+          "submissionType": "TEXT",
+          "maxScore": 15
+        },
+        {
+          "id": 1210,
+          "title": "Fractions basic",
+          "instructions": "Draw and shade 1/2, 1/3, 1/4",
+          "submissionType": "IMAGE",
+          "maxScore": 15
+        },
+        {
+          "id": 1211,
+          "title": "Fraction comparison",
+          "instructions": "Compare: 1/2 vs 1/4, 1/3 vs 1/2",
+          "submissionType": "TEXT",
+          "maxScore": 10
+        },
+        {
+          "id": 1212,
+          "title": "Money problems",
+          "instructions": "Calculate change: $5 - $2.50 = ?",
+          "submissionType": "TEXT",
+          "maxScore": 10
+        },
+        {
+          "id": 1213,
+          "title": "Measurement conversion",
+          "instructions": "Convert: 12 inches = _ feet, 5 feet = _ inches",
+          "submissionType": "TEXT",
+          "maxScore": 10
+        },
+        {
+          "id": 1214,
+          "title": "Perimeter calculation",
+          "instructions": "Find perimeter of shapes",
+          "submissionType": "IMAGE",
+          "maxScore": 10
+        },
+        {
+          "id": 1215,
+          "title": "Area finding",
+          "instructions": "Calculate area of rectangles",
+          "submissionType": "IMAGE",
+          "maxScore": 15
+        },
+        {
+          "id": 1216,
+          "title": "Even and odd",
+          "instructions": "List even and odd numbers 1-20",
+          "submissionType": "TEXT",
+          "maxScore": 10
+        },
+        {
+          "id": 1217,
+          "title": "Rounding numbers",
+          "instructions": "Round to nearest 10: 23, 45, 67, 88",
+          "submissionType": "TEXT",
+          "maxScore": 10
+        },
+        {
+          "id": 1218,
+          "title": "Estimation",
+          "instructions": "Estimate sums before calculating exactly",
+          "submissionType": "TEXT",
+          "maxScore": 10
+        },
+        {
+          "id": 1219,
+          "title": "Three-digit addition",
+          "instructions": "Solve: 123+234=?, 456+213=?",
+          "submissionType": "TEXT",
+          "maxScore": 15
+        },
+        {
+          "id": 1220,
+          "title": "Three-digit subtraction",
+          "instructions": "Solve: 500-123=?, 789-234=?",
+          "submissionType": "TEXT",
+          "maxScore": 15
+        },
+        {
+          "id": 1221,
+          "title": "Mathematics Mastery - Practice Task 1",
+          "instructions": "Complete this fun activity for Mathematics Mastery. Follow the steps carefully and submit your work to your teacher."
+        },
+        {
+          "id": 1222,
+          "title": "Mathematics Mastery - Practice Task 2",
+          "instructions": "Complete this fun activity for Mathematics Mastery. Follow the steps carefully and submit your work to your teacher."
+        },
+        {
+          "id": 1223,
+          "title": "Mathematics Mastery - Practice Task 3",
+          "instructions": "Complete this fun activity for Mathematics Mastery. Follow the steps carefully and submit your work to your teacher."
+        },
+        {
+          "id": 1224,
+          "title": "Mathematics Mastery - Practice Task 4",
+          "instructions": "Complete this fun activity for Mathematics Mastery. Follow the steps carefully and submit your work to your teacher."
+        },
+        {
+          "id": 1225,
+          "title": "Mathematics Mastery - Practice Task 5",
+          "instructions": "Complete this fun activity for Mathematics Mastery. Follow the steps carefully and submit your work to your teacher."
+        },
+        {
+          "id": 1226,
+          "title": "Mathematics Mastery - Practice Task 6",
+          "instructions": "Complete this fun activity for Mathematics Mastery. Follow the steps carefully and submit your work to your teacher."
+        },
+        {
+          "id": 1227,
+          "title": "Mathematics Mastery - Practice Task 7",
+          "instructions": "Complete this fun activity for Mathematics Mastery. Follow the steps carefully and submit your work to your teacher."
+        },
+        {
+          "id": 1228,
+          "title": "Mathematics Mastery - Practice Task 8",
+          "instructions": "Complete this fun activity for Mathematics Mastery. Follow the steps carefully and submit your work to your teacher."
+        },
+        {
+          "id": 1229,
+          "title": "Mathematics Mastery - Practice Task 9",
+          "instructions": "Complete this fun activity for Mathematics Mastery. Follow the steps carefully and submit your work to your teacher."
+        },
+        {
+          "id": 1230,
+          "title": "Mathematics Mastery - Practice Task 10",
+          "instructions": "Complete this fun activity for Mathematics Mastery. Follow the steps carefully and submit your work to your teacher."
+        }
+      ],
+      "chapters": [
+        {
+          "chapterTitle": {
+            "en": "Additional Chapter 1"
+          },
+          "questions": []
+        },
+        {
+          "chapterTitle": {
+            "en": "Additional Chapter  2"
+          },
+          "questions": []
+        },
+        {
+          "chapterTitle": {
+            "en": "Additional Chapter   3"
+          },
+          "questions": []
+        },
+        {
+          "chapterTitle": {
+            "en": "Additional Chapter    4"
+          },
+          "questions": []
+        },
+        {
+          "chapterTitle": {
+            "en": "Additional Chapter     5"
+          },
+          "questions": []
+        }
+      ]
+    }
+  ]
+}

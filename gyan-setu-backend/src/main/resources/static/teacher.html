@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title>Teacher Dashboard - Gyan Setu</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<h1>👩‍🏫 Teacher Dashboard</h1>
+
+<h2>AI Teaching Assistant</h2>
+<input id="teacherQuestion" placeholder="Ask teaching suggestion">
+<button onclick="askAI()">Ask AI</button>
+
+<p id="teacherAnswer"></p>
+
+<hr>
+
+<h2>Generate Quiz</h2>
+<input id="topic" placeholder="Enter topic">
+<button onclick="generateQuiz()">Generate Quiz</button>
+
+<ul id="quiz"></ul>
+
+<hr>
+
+<h2>Courses</h2>
+<button onclick="loadCourses()">Load Courses</button>
+<ul id="courses"></ul>
+
+<script src="teacher.js"></script>
+
+</body>
+</html>
