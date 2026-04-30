@@ -2,17 +2,17 @@ spring.application.name=GyanSetu
 server.port=8080
 
 # ================= DATABASE =================
-# Replace with your local/prod DB settings
-spring.datasource.url=jdbc:mysql://localhost:3306/gyan_setu
-spring.datasource.username=root
+# Replace with your local/prod DB settings (Neon PostgreSQL)
+spring.datasource.url=jdbc:postgresql://ep-your-name.region.neon.tech/neondb?sslmode=require
+spring.datasource.username=neondb_owner
 spring.datasource.password=YOUR_PASSWORD_HERE
 
-spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver
+spring.datasource.driver-class-name=org.postgresql.Driver
 
 # ================= JPA =================
 spring.jpa.hibernate.ddl-auto=update
 spring.jpa.show-sql=false
-
+spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.PostgreSQLDialect
 # ================= JWT =================
 # Use a long random string for production!
 app.jwt.secret=REPLACE_WITH_YOUR_SECRET_KEY
