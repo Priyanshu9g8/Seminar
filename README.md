@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Gyan Setu - AI-Powered Educational Platform 🎓✨
 
 Gyan Setu is a modern, multilingual educational platform designed to empower students and teachers through AI-driven learning and secure exam integrity measures.
@@ -48,3 +49,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📄 License
 This project is licensed under the MIT License.
+=======
+# Seminar
+Gyan Setu - A platform for knowledge sharing and learning
+>>>>>>> 3b8616658941d113b52b4332f5dd56c2304cddc8
